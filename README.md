@@ -5,7 +5,7 @@
 
 📍osTicket
 
-   -osTicket: Prerequisites and Installation: osTicket system
+   -osTicket: Prerequisites and Installation: osTicket
     
    -osTicket: Post-Installation Configuration
     
