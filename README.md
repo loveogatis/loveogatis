@@ -5,7 +5,7 @@
 
 📍osTicket
 
-   -osTicket: Prerequisites and Installation: https://github.com/loveogatis/loveogatis/blob/main/osTicket <href>
+   -osTicket: Prerequisites and Installation: 
     
    -osTicket: Post-Installation Configuration
     
