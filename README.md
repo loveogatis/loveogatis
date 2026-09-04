@@ -1,16 +1,15 @@
-## Hi there 👋
+## 💫Hi there 👋, I'm Suzanne and I'm an aspiring IT professional & Software Engineer student
 
-<!--
-**loveogatis/loveogatis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+🔭 I’m currently working on: Informationa Technology Projects/hands on
+  -osTicket
+    -link
+    -
+    -
+    -
+  -Microsoft Azure
+    -
+    -
+    -
+- 🪴 I’m currently learning: Comptia A+, Network
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
