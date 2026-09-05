@@ -10,7 +10,10 @@
    * [osTicket: Ticket Lifecycle Examples](https://github.com)
    * [osTicket: Life Cycle](https://github.com/loveogatis/osTicketing/blob/main/README.md)
 
-  
+
+📍Active Directory
+    * [Prepping & Deployment](https://github.com/loveogatis/osTicketing/blob/main/README.md)
+
 📍Microsoft Azure
 
 
