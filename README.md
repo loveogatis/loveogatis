@@ -3,19 +3,19 @@
 
 🔭 I’m currently working on: Information Technology Projects
 
-📍osTicket
+📍osTicket(Help Desk Ticketing system)
 
-   -osTicket: Prerequisites and Installation: osTicket
-    
-   -osTicket: Post-Installation Configuration
-    
-   -osTicket: Ticket Lifecycle Examples
+   * [osTicket: Prerequisites and Installation](https://github.com/RoslyndWilliams/osTicket--Prerequisites-and-Installation)
+   * [osTicket: Post-Installation Configuration](https://github.com/RoslyndWilliams/post-install-config)
+   * [osTicket: Ticket Lifecycle Examples](https://github.com)
+
   
 📍Microsoft Azure
 
-   -Configuring On-premises Active Directory within Azure VMs
 
-   -Network Security Groups (NSGs) and Inspecting Network Protocols
+   * [Configuring On-premises Active Directory within Azure VMs](https://github.com/RoslyndWilliams/osTicket--Prerequisites-and-Installation)
+   * [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RoslyndWilliams/post-install-config)
+
   
 - 🪴 I’m currently learning: Comptia A+, Network and current WGU Software Engineer student
 - 📫 How to reach me: ...
