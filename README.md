@@ -12,7 +12,8 @@
 
 
 📍Active Directory
-    * [Prepping & Deployment](https://github.com/loveogatis/osTicketing/blob/main/README.md)
+
+  * [Prepping & Deployment](https://github.com/loveogatis/osTicketing/blob/main/README.md)
 
 📍Microsoft Azure
 
