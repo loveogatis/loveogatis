@@ -4,9 +4,9 @@
 ### 🚀 About Me
 I am a software developer passionate about building clean, functional web applications and exploring cloud solutions. I combine front-end styling with back-end logic and data management to create seamless user experiences.
 
-- 🔭 I’m currently working on **[Name of a Project or "building portfolio projects"]**
-- 🌱 I’m currently learning **Advanced AWS architectures and backend optimizations**
-- 💬 Ask me about **Python scripting, database design, or responsive web layouts**
+- 🔭 I’m currently working on building hands on IT projects
+- 🌱 I’m currently learning Comptia A+ and studying Software Engineering
+- 💬 Ask me about Front End web & Python
 
 
 ---
