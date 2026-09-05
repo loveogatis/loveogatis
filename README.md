@@ -8,6 +8,7 @@
    * [osTicket: Prerequisites and Installation](https://github.com/RoslyndWilliams/osTicket--Prerequisites-and-Installation)
    * [osTicket: Post-Installation Configuration](https://github.com/RoslyndWilliams/post-install-config)
    * [osTicket: Ticket Lifecycle Examples](https://github.com)
+   * [osTicket: Life Cycle](https://github.com/loveogatis/osTicketing/blob/main/README.md)
 
   
 📍Microsoft Azure
