@@ -2,7 +2,7 @@
 # Hi💫 there, I'm Suzanne and I'm an aspiring IT professional & Software Engineer student! 👋
 
 ### 🚀 About Me
-I am a software developer passionate about building clean, functional web applications and exploring cloud solutions. I combine front-end styling with back-end logic and data management to create seamless user experiences.
+I am an aspiring IT professional & software engineer student who is passionate about learning new tech related, functional web applications and exploring cloud solutions. I combine my knowledge in IT support with my front-end styling with back-end logic to create seamless user experience.
 
 - 🔭 I’m currently working on building hands on IT projects
 - 🌱 I’m currently learning Comptia A+ and studying Software Engineering
@@ -18,7 +18,7 @@ I am a software developer passionate about building clean, functional web applic
 #### ☁️Database & Cloud: SQL, [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/601dcd4fcfce491491f29c734a463f6e)
 ---
 
-🎯Information Technology Projects:🪴 
+### 🎯Information Technology Projects:🪴 
 
 📍osTicket(Help Desk Ticketing system)
 
@@ -27,10 +27,6 @@ I am a software developer passionate about building clean, functional web applic
    * [osTicket: Ticket Lifecycle Examples](https://github.com)
    * [osTicket: Life Cycle](https://github.com/loveogatis/osTicketing/blob/main/README.md)
 
-
-📍Active Directory
-
-  * [Prepping & Deployment](https://github.com/loveogatis/Active-Directory)
 
 📍Microsoft Azure
 
