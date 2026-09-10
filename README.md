@@ -24,15 +24,12 @@ I am an aspiring IT professional & software engineer student who is passionate a
 
    * [osTicket: Prerequisites and Installation](https://github.com/RoslyndWilliams/osTicket--Prerequisites-and-Installation)
    * [osTicket: Post-Installation Configuration](https://github.com/RoslyndWilliams/post-install-config)
-   * [osTicket: Ticket Lifecycle Examples](https://github.com)
-   * [osTicket: Life Cycle](https://github.com/loveogatis/osTicketing/blob/main/README.md)
 
 
 📍Microsoft Azure
 
    * [Configure Virtual Machines within Azure Resource groups](https://github.com/loveogatis/osTicketing/blob/main/README.md)
-   * [Configuring On-premises Active Directory within Azure VMs](https://github.com/RoslyndWilliams/osTicket--Prerequisites-and-Installation)
-   * [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RoslyndWilliams/post-install-config)
+   
 
 ---
 ### ⚡ Fun Fact
