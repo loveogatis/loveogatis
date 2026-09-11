@@ -1,7 +1,7 @@
 
 # Hi💫 there, I'm Suzanne and I'm an aspiring IT professional & Software Engineer student! 👋
 
-### 🚀 About Me
+### 🚀 About Me👩🏽‍💻
 I am an aspiring IT professional & software engineer student who is passionate about learning new tech related, functional web applications and exploring cloud solutions. I combine my knowledge in IT support with my front-end styling with back-end logic to create seamless user experience.
 
 - 🔭 I’m currently working on building hands on IT projects
@@ -11,7 +11,7 @@ I am an aspiring IT professional & software engineer student who is passionate a
 
 ---
 
-### My Tech Stack👩‍💻
+### 🍡My Tech Stack👩‍💻
 
 #### 🍂 Languages & Web Development: Python, HTML5, CSS3
 
