@@ -25,10 +25,10 @@ I am an aspiring IT professional & software engineer student who is passionate a
 
 ### 🎯Information Technology Projects:🪴 
 
-📍osTicket(Help Desk Ticketing system)
+📍osTicket(Help Desk Ticketing system)pending
 
-   * [osTicket: Prerequisites and Installation](https://github.com/RoslyndWilliams/osTicket--Prerequisites-and-Installation)
-   * [osTicket: Post-Installation Configuration](https://github.com/RoslyndWilliams/post-install-config)
+   * [osTicket: Prerequisites and Installation]()
+   * [osTicket: Post-Installation Configuration]()
 
 
 📍Microsoft Azure
