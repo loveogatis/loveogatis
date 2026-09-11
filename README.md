@@ -20,7 +20,7 @@ I am an aspiring IT professional & software engineer student who is passionate a
 
 ### 🎯Software Engineering Projects: FrontEnd/BackEnd🪴 
   📍HoneycatsPH(FrontEnd Web)
-   * [Details here:](https://github.com/RoslyndWilliams/osTicket--Prerequisites-and-Installation)
+   * [Front End Web Development](https://github.com/sogatis/HoneyPH.git)
   
 
 ### 🎯Information Technology Projects:🪴 
