@@ -20,7 +20,7 @@ I am an aspiring IT professional & software engineer student who is passionate a
 
 ### 🎯Software Engineering Projects: FrontEnd/BackEnd🪴 
   📍HoneycatsPH(FrontEnd Web)
-   * [Front End Web Development](https://github.com/sogatis/HoneyPH.git)
+   * [Front End Web Development](https://github.com/loveogatis/loveogatis/blob/main/HoneyCatsPH)
   
 
 ### 🎯Information Technology Projects:🪴 
