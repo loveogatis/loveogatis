@@ -1,0 +1,38 @@
+# 🐱 Honey Cats PH
+
+A responsive website for **Honey Cats PH**, a cat rescue and welfare organization based in Taguig, Philippines, dedicated to spaying/neutering strays, rescue operations, and promoting adoption.
+
+## About Honey Cats PH
+
+Honey Cats PH is a small rescue group powered by a passion for animal welfare. The organization:
+- **Promotes spaying and neutering** of stray cats to control the population humanely
+- **Rescues and rehabilitates** cats in need
+- **Feeds and cares for strays** in the community
+- **Supports indigent pet owners** when needed
+- **Advocates for adoption** of rescued cats to loving homes
+
+As of the site's creation, the group had:
+- 🐈 38 rescued cats
+- 🐈 74 cats spayed/neutered
+
+## Features
+
+The website showcases:
+- **Mission Statement** - Information about the organization's goals and impact
+- **Adoptable Kitties** - Profiles of rescued cats available for adoption (Polo, Melon, Olive, Beauty)
+- **Gallery** - Sponsor cat galleries with information on vaccine sponsorship opportunities
+- **Merchandise Store** - Honey Cats PH branded mugs and cat collars (available on Shopee)
+- **YouTube Integration** - Embedded videos from their YouTube channel
+- **Multiple Donation Channels** - PayPal, GCash, and BPI bank transfer options
+- **Responsive Navigation** - Mobile-friendly menu with links to all main sections
+- **Social Media Links** - YouTube and Instagram integration
+
+## Tech Stack
+
+- **HTML5** - Semantic markup structure
+- **CSS3** - Custom styling with Bootstrap 5 framework integration
+- **Bootstrap 5** - Responsive grid layout and components
+- **Font Awesome** - Social media icons
+- **Google Fonts** - Custom typography (Questrial font)
+
+## File Structure
