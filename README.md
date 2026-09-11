@@ -18,6 +18,8 @@ I am an aspiring IT professional & software engineer student who is passionate a
 #### ☁️Database & Cloud: SQL, [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/601dcd4fcfce491491f29c734a463f6e)
 ---
 
+### 🎯Software Engineering Projects: FrontEnd/BackEnd🪴 
+
 ### 🎯Information Technology Projects:🪴 
 
 📍osTicket(Help Desk Ticketing system)
