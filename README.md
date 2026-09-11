@@ -7,7 +7,7 @@ I am an aspiring IT professional & software engineer student who is passionate a
 - 🔭 I’m currently working on building hands on IT projects
 - 🌱 I’m currently learning Comptia A+ and studying B.S Software Engineering @WGU
 - 💬 Ask me about Front End web & Python
-
+- 💻 [Check out my personal website](https://suxannes1.netlify.app/)
 
 ---
 
